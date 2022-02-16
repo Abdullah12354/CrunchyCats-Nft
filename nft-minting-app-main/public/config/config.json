@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5ffabf9c0dceb3e311578edd5037cadcc0a6eb8d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x1470ea094abd9542dc559c01b3cc49a492237d617f09da92e887881b9a9e75e3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 137
+  },
+  "NFT_NAME": "CrunchyCats",
+  "SYMBOL": "CCatsNFT",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/crunchycats",
+  "SHOW_BACKGROUND": true
+}
